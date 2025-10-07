@@ -47,5 +47,5 @@ This is **NOT** a typical agriculture or information app.
 | Admin Dashboard | 🚧 | Coming soon |
 
 
-
+<img width="2370" height="1377" alt="_- visual selection" src="https://github.com/user-attachments/assets/f37b1fbc-f738-4995-9fca-781153bdb5de" />
 
